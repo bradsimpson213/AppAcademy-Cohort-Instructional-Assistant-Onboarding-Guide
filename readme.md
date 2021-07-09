@@ -8,7 +8,7 @@ This resource is a comprehensive guide for new Cohort Instructional Assistants
 
 
 1. [Assessments][assessments]
-2.
+2. [Attendance][attendance]
 
 This portion of the guide contains a collection of additional resources.
 Documentation on many of the applications/tools/scripts utilized by the Instruction Team can be found here.
@@ -18,5 +18,7 @@ Documentation on many of the applications/tools/scripts utilized by the Instruct
 <!-- Links -->
 
 [assessments]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/tree/master/assessments
+
+[attendance]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/tree/master/attendance
 
 [resources]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/tree/master/resources
