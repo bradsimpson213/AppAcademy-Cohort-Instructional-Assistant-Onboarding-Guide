@@ -19,4 +19,4 @@ Documentation on many of the applications/tools/scripts utilized by the Instruct
 
 [assessments]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/tree/master/assessments
 
-[resources]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/tree/master/resources
+[resources]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/tree/master/resources
