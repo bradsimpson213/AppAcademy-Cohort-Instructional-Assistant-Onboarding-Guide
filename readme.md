@@ -1,6 +1,10 @@
 # Cohort Instructor Onboarding
+
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Cohort Instructor.
 We have divided this guide according to the most common tasks you will handle on different time frames.
+
+**This guide and repo are still a work in progress!  CHeck back often as we are updating it daily**
+
 
 ## Daily:
 - Check and Record Reports
@@ -11,13 +15,17 @@ We have divided this guide according to the most common tasks you will handle on
 - [Attendance](https://drive.google.com/drive/folders/1haxqHCwELELK1LUYrT3--lKyI6gN-4B8?usp=sharing)
 
 ## Weekly
+
 ### Monday
 - Assessment
     - Release assessment to students
-        - [Video](https://drive.google.com/file/d/13ZLIFt4YoWpw2cZaOvN0KD-xINwnsiIt/view?usp=sharing)
-        - [Guide](https://docs.google.com/document/d/1vRGgoPQxYqmGZiYBVbzyx7Z6vPSZqbYApWjAp8DPbbA/edit?usp=sharing)
-    - [Assessment Kickoff talk](https://docs.google.com/document/d/1jTDZpUC5fcKNtp0CPX_GPGTdFdhcc1ov3kFiuu6-HoA/edit?usp=sharing)
+        - [Assessment Setup Guide](https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-setup.md) will take you step by step on how to create a new assessment cycle on Progress Tracker, check the cohort GitHub team that all students are included, add the assessment repo to the GitHub team, and finally release the assessment to students on App Academy Open
+        - [Assessment Setup Video](https://drive.google.com/file/d/13ZLIFt4YoWpw2cZaOvN0KD-xINwnsiIt/view?usp=sharing) will walk through the steps listed in the Assessment Setup Guide
+
+    - [Assessment Kickoff Talk](https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-delivery.md) is a guide for the discussion you will have with students immediately before they take each assessment.  It goes over reviewing the testing proceedures, allowed resources, and asking questions during the assessment
+
     - Grading
+
 - [Conduct deferral/dismissals talks](https://docs.google.com/document/d/1YqzRq94F5-I_Z5TIucjSQ_z8WBK6Dd9a_1tb5a25xbg/edit)
 
 ### Tuesday
