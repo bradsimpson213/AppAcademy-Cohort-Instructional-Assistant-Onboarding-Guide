@@ -25,25 +25,26 @@ We have divided this guide according to the most common tasks you will handle on
     - Grading
 - <a href='https://docs.google.com/document/d/1YqzRq94F5-I_Z5TIucjSQ_z8WBK6Dd9a_1tb5a25xbg/edit' target='_blank'>Conduct deferral/dismissals talks</a>
 
-<<<<<<< HEAD
 - Deferral or Dismissal Talks (often based off assessent results
 )
     - The [Deferral and Academic Dismissal Policy](https://github.com/bradsimpson213/ppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/deferrals/deferrals.md) contains official App Academy policy on how to handle deferral and dismissals for academic, medical, or extenuating circumstances.  Includes the rules for how each should be handled, as well as talking points for when you meet with the student.
-=======
->>>>>>> 2bc6bcd97a9ec3ee62fa10c0ffa5be68e7b59f2e
+
 
 ### Tuesday
 - Weekly Feedback Prep
-    - <a href='https://drive.google.com/file/d/1g0g5GlKUBrOYnsJajiA0KKcOUtttI8rO/view?usp=sharing' target='_blank'>Video</a>
-    - <a href='https://docs.google.com/document/d/1_epmozsCWIzyYEuoUBeWnJJ3wnuP0zbQh2RLsc-1A0c/edit?usp=sharing' target='_blank'>Guide</a>
+  
+    - The <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/weekly-feedback/weekly-feedback.md' target='_blank'>Weekly Feedback Guide</a> will walk you through pulling the data out of Progress Tracker and saving it in the cohort's tracking spreadsheet.  It will also help you prepare to present the cohort's progress at the weekly Online Instructors Meeting.
+    - The <a href='https://drive.google.com/file/d/1g0g5GlKUBrOYnsJajiA0KKcOUtttI8rO/view?usp=sharing' target='_blank'>Weekly Feedback Video</a> will walk through the steps listed in the Weekly Feedback Guide
+
 - Take the practice and/or actual assessment, comparing with LOs (helps prep for EODs)
 - <a href='https://docs.google.com/document/d/1535oKtUUetipgQ-1EXdsUQTJWJgIVE0PFfYqlJb7Ims/edit?usp=sharing' target='_blank'>Defer-in talks</a>
 - <a href='https://docs.google.com/document/d/1qepGvdL1i_rpEk9TWXy5_dDXOdrg42Hwlk9oFPF3QtU/edit' target='_blank'>Conduct strike and behavioral talks</a>
 
 ### Wednesday
 - Weekly Feedback Reporting
+  - <a href='https://docs.google.com/document/d/1_epmozsCWIzyYEuoUBeWnJJ3wnuP0zbQh2RLsc-1A0c/edit?usp=sharing' target='_blank'>Guide</a>
     - <a href='https://drive.google.com/file/d/1g0g5GlKUBrOYnsJajiA0KKcOUtttI8rO/view?usp=sharing' target='_blank'>Video</a>
-    - <a href='https://docs.google.com/document/d/1_epmozsCWIzyYEuoUBeWnJJ3wnuP0zbQh2RLsc-1A0c/edit?usp=sharing' target='_blank'>Guide</a>
+  
 
 ### Thursday
 - Meet with struggling students
