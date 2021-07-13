@@ -7,13 +7,13 @@ This resource is a comprehensive guide for new Cohort Instructional Assistants
 ## Table of Contents
 
 
-1. [Assessments][assessments]
+1. [Assessment Setup][assessments]
 2. [Attendance][attendance]
 
 This portion of the guide contains a collection of additional resources.
 Documentation on many of the applications/tools/scripts utilized by the Instruction Team can be found here.
 
-## [Resources][resources]
+## [Additional Resources][resources]
 
 <!-- Links -->
 
