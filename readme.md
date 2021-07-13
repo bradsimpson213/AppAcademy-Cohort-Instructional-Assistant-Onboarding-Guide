@@ -41,8 +41,7 @@ We have divided this guide according to the most common tasks you will handle on
 
 ### Wednesday
 - Weekly Feedback Reporting
-  - <a href='https://docs.google.com/document/d/1_epmozsCWIzyYEuoUBeWnJJ3wnuP0zbQh2RLsc-1A0c/edit?usp=sharing' target='_blank'>Guide</a>
-    - <a href='https://drive.google.com/file/d/1g0g5GlKUBrOYnsJajiA0KKcOUtttI8rO/view?usp=sharing' target='_blank'>Video</a>
+    See the material on Weekly Feedback Prep above in Tuesday
   
 
 ### Thursday
