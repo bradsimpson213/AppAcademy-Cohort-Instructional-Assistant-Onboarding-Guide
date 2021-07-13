@@ -41,7 +41,8 @@ We have divided this guide according to the most common tasks you will handle on
 
 ### Wednesday
 - Weekly Feedback Reporting
-    See the material on Weekly Feedback Prep above in Tuesday
+
+    - See the material on Weekly Feedback Prep above in Tuesday
   
 
 ### Thursday
