@@ -1,6 +1,6 @@
-# Cohort Instructor Onboarding
+# Cohort Instructional Assistant Onboarding
 
-This onboarding tool is meant for you to learn more about the nuts and bolts of being a Cohort Instructor.
+This onboarding tool is meant for you to learn more about the nuts and bolts of being a Cohort Instructional Assistant.
 We have divided this guide according to the most common tasks you will handle on different time frames.
 
 **This guide and repo are still a work in progress!  Check back often as we are updating it daily**
@@ -21,12 +21,10 @@ We have divided this guide according to the most common tasks you will handle on
     - Release assessment to students
         - <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-setup.md' target='_blank'>Assessment Setup Guide</a> will take you step by step on how to create a new assessment cycle on Progress Tracker, check the cohort GitHub team that all students are included, add the assessment repo to the GitHub team, and finally release the assessment to students on App Academy Open
         - <a href='https://drive.google.com/file/d/13ZLIFt4YoWpw2cZaOvN0KD-xINwnsiIt/view?usp=sharing' target='_blank'>Assessment Setup Video</a> will walk through the steps listed in the Assessment Setup Guide
-
     - <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-delivery.md' target='_blank'>Assessment Kickoff Talk</a> is a guide for the discussion you will have with students immediately before they take each assessment.  It goes over reviewing the testing proceedures, allowed resources, and asking questions during the assessment
-
     - Grading
-
 - <a href='https://docs.google.com/document/d/1YqzRq94F5-I_Z5TIucjSQ_z8WBK6Dd9a_1tb5a25xbg/edit' target='_blank'>Conduct deferral/dismissals talks</a>
+
 
 ### Tuesday
 - Weekly Feedback Prep
