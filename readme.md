@@ -26,7 +26,9 @@ We have divided this guide according to the most common tasks you will handle on
 
     - Grading
 
-- The [Deferral and Academic Dismissal Policy](https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/deferrals/deferrals.md) contains official App Academy policy on how to handle deferral and dismissals for academic, medical, or extenuating circumstances.  Includes the rules for how each should be handled, as well as talking points for when you meet with the student.
+- Deferral or Dismissal Talks (often based off assessent results
+)
+    - The [Deferral and Academic Dismissal Policy](https://github.com/bradsimpson213/ppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/deferrals/deferrals.md) contains official App Academy policy on how to handle deferral and dismissals for academic, medical, or extenuating circumstances.  Includes the rules for how each should be handled, as well as talking points for when you meet with the student.
 
 ### Tuesday
 - Weekly Feedback Prep
