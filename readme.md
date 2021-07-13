@@ -21,13 +21,12 @@ We have divided this guide according to the most common tasks you will handle on
     - Release assessment to students
         - <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-setup.md' target='_blank'>Assessment Setup Guide</a> will take you step by step on how to create a new assessment cycle on Progress Tracker, check the cohort GitHub team that all students are included, add the assessment repo to the GitHub team, and finally release the assessment to students on App Academy Open
         - <a href='https://drive.google.com/file/d/13ZLIFt4YoWpw2cZaOvN0KD-xINwnsiIt/view?usp=sharing' target='_blank'>Assessment Setup Video</a> will walk through the steps listed in the Assessment Setup Guide
-    - <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-delivery.md' target='_blank'>Assessment Kickoff Talk</a> is a guide for the discussion you will have with students immediately before they take each assessment.  It goes over reviewing the testing proceedures, allowed resources, and asking questions during the assessment
+    - The <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-delivery.md' target='_blank'>Assessment Kickoff Talk</a> is a guide for the discussion you will have with students immediately before they take each assessment.  It goes over reviewing the testing proceedures, allowed resources, and asking questions during the assessment
     - Grading
-- <a href='https://docs.google.com/document/d/1YqzRq94F5-I_Z5TIucjSQ_z8WBK6Dd9a_1tb5a25xbg/edit' target='_blank'>Conduct deferral/dismissals talks</a>
 
 - Deferral or Dismissal Talks (often based off assessent results
 )
-    - The [Deferral and Academic Dismissal Policy](https://github.com/bradsimpson213/ppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/deferrals/deferrals.md) contains official App Academy policy on how to handle deferral and dismissals for academic, medical, or extenuating circumstances.  Includes the rules for how each should be handled, as well as talking points for when you meet with the student.
+    - The [Deferral and Academic Dismissal Policy](https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/deferrals/deferrals.md) contains official App Academy policy on how to handle deferral and dismissals for academic, medical, or extenuating circumstances.  Includes the rules for how each should be handled, as well as talking points for when you meet with the student.
 
 
 ### Tuesday
