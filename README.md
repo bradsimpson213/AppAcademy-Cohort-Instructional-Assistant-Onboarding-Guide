@@ -1,4 +1,4 @@
-# Module Instructor Onboarding
+# Cohort Instructor Onboarding
 This onboarding tool is meant for you to learn more about the nuts and bolts of being a Cohort Instructor.
 We have divided this guide according to the most common tasks you will handle on different time frames.
 
