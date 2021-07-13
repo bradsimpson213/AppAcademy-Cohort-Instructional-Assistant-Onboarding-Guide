@@ -6,5 +6,5 @@ The [Assessment Delivery][assessmentdelivery] document is a guide / talking poin
 
 
 [videolink]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-setup.mp4
-[assessmentsetupdoc]: 
+[assessmentsetupdoc]: https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-setup.md
 [assessmentdelivery]:https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/assessments/assessment-delivery.md
