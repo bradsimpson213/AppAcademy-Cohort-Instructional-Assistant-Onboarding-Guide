@@ -4,7 +4,7 @@ We have divided this guide according to the most common tasks you will handle on
 
 ## Daily:
 - Check and Record Reports
-    - [Video Walkthrough](https://drive.google.com/file/d/13M4bZwuyI0rrYboyecdJuKKCL_Ax-q5f/view?usp=sharing)
+    - [Video Walkthrough](https://drive.google.com/file/d/13M4bZwuyI0rrYboyecdJuKKCL_Ax-q5f/view?usp=sharing){:target="_blank"}
     - [Guide](https://docs.google.com/document/d/1UCKSdlGsvQgS9eeQXfrZTzEKENwrkxVc_teEDy-DHgA/edit?usp=sharing)
 - [Prepare End of Day Lecture](https://drive.google.com/drive/folders/1_IrXZaXeQRmLMysoHVqDmkBboIHKuzvq?usp=sharing)
 - Review Pairing Assignments
