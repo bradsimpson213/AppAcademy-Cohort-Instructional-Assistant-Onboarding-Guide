@@ -58,8 +58,9 @@ We have divided this guide according to the most common tasks you will handle on
 ### Project Weeks
 - Assigning groups
 - Scorecards
-    - <a href='https://drive.google.com/file/d/1DhX2v2Zk4xoEh254DJMIKpWWwuq0_eUN/view?usp=sharing' target='_blank'>Video</a>
-    - <a href='https://drive.google.com/file/d/1DhX2v2Zk4xoEh254DJMIKpWWwuq0_eUN/view?usp=sharing' target='_blank'>Guide</a>
+    - The <a href='https://github.com/bradsimpson213/AppAcademy-Cohort-Instructional-Assistant-Onboarding-Guide/blob/master/scorecards/scorecards.md' target='_blank'>Scorecard Grading Guide</a> will walk though how to have students set up their part of the scorecard, and then the expectations for grading.
+    - The <a href='https://drive.google.com/file/d/1DhX2v2Zk4xoEh254DJMIKpWWwuq0_eUN/view?usp=sharing' target='_blank'>Scorecards Video</a> is a recording of a lecture given to students during their first group project.  The intent is to guide them in the scorecard setup process, and then demonstrate to them the grading process.  This sets their expectations for the whole process early, and helps clarify what they need to have comepleted by the end of project week.
+   
 - Nightly pairing report along with PT report
 
 ### Week before the start of a new module
